@@ -1,0 +1,3 @@
+List of tutorials used for this project:
+
+Git/Github in depth - https://youtu.be/DVRQoVRzMIY
