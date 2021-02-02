@@ -1,10 +1,13 @@
 # trogianno1
 
+HIGH LEVEL GAMEPLAN
+1. React -> Ionic -> Github tutorials (~5 hrs total)
+2. Build the stuffs
+
 STACK
 1. React
 2. Django
 3. Ionic
-4. Heroku?
 
 TUTORIALS
 1. React - https://www.youtube.com/watch?v=w7ejDZ8SWv8&ab_channel=TraversyMedia
