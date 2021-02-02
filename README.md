@@ -1,9 +1,5 @@
 # trogianno1
 
-HIGH LEVEL GAMEPLAN
-1. React -> Ionic -> Github tutorials (~5 hrs total)
-2. Build the stuffs
-
 STACK
 1. React
 2. Django
