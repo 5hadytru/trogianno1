@@ -5,6 +5,7 @@ STACK
 2. Django
 3. SQLite
 4. Ionic
+5. Bootstrap
 
 TUTORIALS
 1. React - https://www.youtube.com/watch?v=w7ejDZ8SWv8&ab_channel=TraversyMedia
