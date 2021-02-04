@@ -3,8 +3,8 @@
 STACK
 1. React
 2. Firebase
-
-5. Bootstrap
+3. React Native
+4. Bootstrap?
 
 TUTORIALS
 1. React - https://www.youtube.com/watch?v=w7ejDZ8SWv8&ab_channel=TraversyMedia
