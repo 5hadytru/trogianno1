@@ -2,8 +2,7 @@
 
 STACK
 1. React
-2. Django
-3. SQLite
+2. Firebase
 4. Ionic
 5. Bootstrap
 
