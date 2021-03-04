@@ -19,5 +19,5 @@ Features/functions in the productivity app:
 - Journal capability
 - Time tracker for measuring productivity
 - Specific list capabilities (password list can be accessed by face-id/pin)
-- Search capacility across the entire app and for searching specific areas
-- 
+- Search capability across the entire app and for searching specific areas
+
