@@ -12,3 +12,12 @@ TUTORIALS
 
 GAMEPLAN
 1. Develop iOS/Android version (this is the primary and maybe only manifestation of this project; for now at least)
+
+Features/functions in the productivity app:
+- To-do list with reminders, recurring tasks, comments, associative list of tasks
+- Calendar
+- Journal capability
+- Time tracker for measuring productivity
+- Specific list capabilities (password list can be accessed by face-id/pin)
+- Search capacility across the entire app and for searching specific areas
+- 
